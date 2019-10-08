@@ -17,17 +17,19 @@ skill of these quizzes.
 
 You may find this information helpful for working through the exercises:
 
-[chapter6](https://mastery-curriculum.makers.tech/chapter6/)
-[chapter7](https://mastery-curriculum.makers.tech/chapter7/)
-[chapter8](https://mastery-curriculum.makers.tech/chapter8/)
+- [chapter6](https://mastery-curriculum.makers.tech/chapter6/)
+- [chapter7](https://mastery-curriculum.makers.tech/chapter7/)
+- [chapter8](https://mastery-curriculum.makers.tech/chapter8/)
 
 ##### Steps
 
-`cd part1`
-`bundle install`
-`cd chapter6`
-`cd quiz1`
-`rspec`
+```
+ cd part1
+ bundle install
+ cd chapter6
+ cd quiz1
+ rspec
+``` 
 
 
 #### Part 2
@@ -36,10 +38,12 @@ please work on these exercises.
 
 ##### Steps
 
-`cd part2`
-`gem install minitest`
-`cd bowling`
-`ruby bowling_test.rb`
+```
+ cd part2
+ gem install minitest
+ cd bowling
+ ruby bowling_test.rb
+```
 
 
 #### Part 3
