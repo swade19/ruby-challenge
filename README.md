@@ -7,6 +7,7 @@
   is useful for you.
   * Please submit a pull request at the end of the day.
   * For each of these exercises please create a _commit_ every time you make a test green :)
+  * For part3 please commit the failing test first, followed by a commit making the test green.
 
 
 #### Part 1
@@ -42,4 +43,4 @@ please work on these exercises.
 
 
 #### Part 3
-If you feel comfortable with ruby, please practise test driving these problems. 
+If you feel comfortable with ruby, please practise test driving these problems.
