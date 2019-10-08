@@ -14,6 +14,12 @@ Please work through this if you haven't yet completed chapters 6, 7 or 8 in
 the mastery quizzes, or if you would like to consolidate your knowledge and
 skill of these quizzes.
 
+You may find this information helpful for working through the exercises:
+
+[chapter6](https://mastery-curriculum.makers.tech/chapter6/)
+[chapter7](https://mastery-curriculum.makers.tech/chapter7/)
+[chapter8](https://mastery-curriculum.makers.tech/chapter8/)
+
 ##### Steps
 
 `cd part1`
@@ -27,6 +33,12 @@ skill of these quizzes.
 If you feel comfortable with the mastery quizzes and would like to practise ruby
 please work on these exercises.
 
+##### Steps
+
+`cd part2`
+`gem install minitest`
+`cd bowling`
+`ruby bowling_test.rb`
 
 
 #### Part 3
