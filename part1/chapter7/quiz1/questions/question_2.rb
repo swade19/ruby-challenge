@@ -51,36 +51,3 @@
 #   input integers for group numbers that exist when they are asked
 #   for the number of a group to print out.
 
-puts "Enter number of groups"
-group_number = gets.chomp
-
-array = Array.new(group_number.to_i) { [] }
-arr_no = 0
-while true
-  puts "Enter a name"
-  name = gets.chomp
-  if name == "stop"
-    break
-  elsif arr_no >= group_number.to_i
-    arr_no = 0
-    array[arr_no].push(name)
-    arr_no += 1
-  else
-    array[arr_no].push(name)
-    arr_no += 1
-  end
-end
-
-while true
-  puts "Enter the number of a group to print out"
-  group_ret = gets.chomp
-  strarr = []
-  if group_ret == "stop"
-    break
-  else
-    array[group_ret.to_i - 1].each do |x|
-      strarr.push(x)
-    end
-  end
-  puts strarr.join(", ")
-end

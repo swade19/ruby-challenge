@@ -17,3 +17,13 @@
 #   Give me a number
 #   stop
 #   18
+#   ```
+
+# * Note: When you run the automated tests, the tests will simulate
+#   the user input.  You shouldn't need to enter any input manually.
+#   If the tests hang when you run them, it probably means your code
+#   doesn't work correctly, yet.
+
+# * Note: You can assume that the user will always enter either an
+#   integer or `stop`.
+

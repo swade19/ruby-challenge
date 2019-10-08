@@ -18,9 +18,4 @@
 #
 # * Note: You can assume the user will only enter integers separated
 #   by commas with no spaces.
-=begin
-1: Ask user for list of numbers
-2: User enters numbers by commas
-3: numbers need to be printed horizontally
-4:
-=end
+
