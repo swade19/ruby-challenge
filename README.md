@@ -42,4 +42,4 @@ please work on these exercises.
 
 
 #### Part 3
-If you feel comfortable with ruby, please practise test driving these problems:
+If you feel comfortable with ruby, please practise test driving these problems. 
