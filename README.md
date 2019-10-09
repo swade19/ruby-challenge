@@ -6,7 +6,7 @@
   * There is _no_ requirement to complete all the exercises, please work on what
   is useful for you.
   * Please submit a pull request at the end of the day.
-  * For each of these exercises please create a _commit_ every time you make a test green :)
+  * For each of these exercises please create a _commit_ every time you make a test green :) Try not to pass multiple tests at once.
   * For part3 please commit the failing test first, followed by a commit making the test green.
 
 
