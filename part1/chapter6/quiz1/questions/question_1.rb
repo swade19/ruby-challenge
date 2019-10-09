@@ -26,4 +26,44 @@
 
 # * Note: You can assume that the user will always enter either an
 #   integer or `stop`.
+=begin 
+- ask for input
+-save input 
+-ask for more input 
+- store in array until stop 
+-add all numbers together
+-puts out numbers 
+=end 
 
+def main_number_program
+    numbers_array=[]
+    puts "enter first input"
+    input = gets.chomp 
+    numbers_array << input 
+    get_number_loop_until_stop(input,numbers_array)
+
+
+    
+    
+end 
+
+
+
+def get_number_loop_until_stop(input,numbers_array)
+    
+    until input == "stop"
+        puts "input a number"
+        input = gets.chomp 
+        numbers_array << input 
+        
+
+    end 
+    
+    
+end 
+
+def add_up_array(numbers_array)
+    puts numbers_array
+    return numbers_array.sum
+end 
+main_number_program
